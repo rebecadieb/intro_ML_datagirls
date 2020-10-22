@@ -52,7 +52,7 @@ warnings.filterwarnings('ignore')
 ```
 # Importando os dados a serem trabalhados 
 
-dados = pd.read_csv("https://docs.google.com/spreadsheets/d/1-FQHT53HTtT-lJgHx2TA6GhzeyvgKB2XWvue57hb4M4/export?format=csv")
+dados = pd.read_csv("https://raw.githubusercontent.com/rebecadieb/intro_ML_datagirls/main/data/data.csv")
 
 ```
 
